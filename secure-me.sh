@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # secure-me.sh – Instant Linux Hardening Script
-# Author: Jerad “Jay” [github.com/yourhandle]
+# Author: Jerad “Jay” [github.com/jeradzackusedevs]
 # Logs everything to /var/log/secure-me.log
 
 LOG_FILE="/var/log/secure-me.log"
